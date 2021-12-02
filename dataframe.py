@@ -1,4 +1,6 @@
 import pandas as pd
+pd.options.display.max_rows = 10
+
 
 #Creando un dataframe a partir de un diccionario
 #es importante notar que los valores son listas, si tuviera un solo valor sería una serie
